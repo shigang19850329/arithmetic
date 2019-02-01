@@ -1,0 +1,9 @@
+
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ùŠÁ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø½şÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÈÒôıÿÿÿÿ
+dsquid:S00116"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Øà
+dsquid:S00116"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÍØ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÃÎ·
+isquid:S00117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒ»å
+usquid:S2234-"YParameters to addEdge have the same names but not the same order as the method arguments.(‡¼üüÿÿÿÿ

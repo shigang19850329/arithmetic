@@ -1,0 +1,9 @@
+
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º—Óº
+Ssquid:S3518""7Make sure "i" can't be zero before doing this division.(²Òìúÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎåÁéıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÉº±üÿÿÿÿ
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ıÛÎê
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(éÌ±İ

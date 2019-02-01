@@ -1,0 +1,10 @@
+
+:squid:S1659"#Declare "right" on a separate line.(ŒÒ—«
+psquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óñ·°
+usquid:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈäËÝúÿÿÿÿ
+usquid:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(›î¶€þÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×šñÉ
+fsquid:S00119	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª¬öÜùÿÿÿÿ
+fsquid:S00119	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ª¬öÜùÿÿÿÿ
+]squid:UselessImportCheck"9Remove this unused import 'edu.princeton.cs.algs4.StdIn'.(¦ÿ—¿
+gsquid:S1149E"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Óñ·°

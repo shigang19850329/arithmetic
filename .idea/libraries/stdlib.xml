@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="stdlib">
+    <CLASSES>
+      <root url="jar://D:/算法第四版/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/算法第四版/stdlib.jar!/com/algs4/stdlib" />
+    </SOURCES>
+  </library>
+</component>

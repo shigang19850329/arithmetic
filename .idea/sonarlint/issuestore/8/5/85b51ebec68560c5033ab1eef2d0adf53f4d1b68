@@ -1,0 +1,8 @@
+
+Ksquid:S10666"/Merge this if statement with the enclosing one.(»Øóïùÿÿÿÿ
+?squid:S1068"(Remove this unused "head" private field.(–ÚÎğ
+jsquid:S1450"SRemove the "head" field and declare it as a local variable in the relevant methods.(–ÚÎğ
+@squid:S1125")Remove the literal "false" boolean value.(½½Òÿ
+Esquid:S11256")Remove the literal "false" boolean value.(»Øóïùÿÿÿÿ
+asquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¸ÊÀÌ
+asquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(äû¶±

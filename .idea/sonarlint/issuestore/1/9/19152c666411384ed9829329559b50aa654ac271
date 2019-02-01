@@ -1,0 +1,11 @@
+
+usquid:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âşèÿÿÿÿÿ
+O
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ë÷ÿ¶
+T
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ÜÌºÀüÿÿÿÿ
+T
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ÜÌºÀüÿÿÿÿ
+O
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ë÷ÿ¶
+fsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ûÆ™ôøÿÿÿÿ

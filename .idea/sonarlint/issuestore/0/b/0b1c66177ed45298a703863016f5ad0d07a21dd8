@@ -1,0 +1,7 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œÆð¹ÿÿÿÿÿ
+Vsquid:S1118	":Add a private constructor to hide the implicit public one.(Óù¼Ùøÿÿÿÿ
+jsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óù¼Ùøÿÿÿÿ
+fsquid:S00100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬œäÀ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÄú

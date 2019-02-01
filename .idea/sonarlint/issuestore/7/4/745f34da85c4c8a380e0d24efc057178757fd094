@@ -1,0 +1,23 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(½±³”
+O
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(êÜâºùÿÿÿÿ
+O
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(êÜâºùÿÿÿÿ
+O
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜
+=squid:S1481"&Remove this unused "b" local variable.(Ÿô®ñ
+Lsquid:S1854"5Remove this useless assignment to local variable "b".(Ÿô®ñ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’
+isquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’
+isquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’

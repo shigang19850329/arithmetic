@@ -1,0 +1,5 @@
+
+Csquid:S1068"'Remove this unused "aux" private field.(Æ²ñØùÿÿÿÿ
+nsquid:S1450"RRemove the "aux" field and declare it as a local variable in the relevant methods.(Æ²ñØùÿÿÿÿ
+Psquid:S1118":Add a private constructor to hide the implicit public one.(ÁÈs
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’

@@ -1,0 +1,5 @@
+
+3squid:S16436"Use a StringBuilder instead.(œ™Å
+Qsquid:S1118	":Add a private constructor to hide the implicit public one.(¬øô•
+esquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬øô•
+isquid:S00116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏºôËøÿÿÿÿ

@@ -1,0 +1,21 @@
+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö÷Â¯úÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚Üãµ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(»ýéŠùÿÿÿÿ
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(±Ç¶›ýÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(±Ç¶›ýÿÿÿÿ
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(±Ç¶›ýÿÿÿÿ
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(±Ç¶›ýÿÿÿÿ
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(±Ç¶›ýÿÿÿÿ
+lsquid:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒ Êûÿÿÿÿ
+lsquid:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(©ð”èøÿÿÿÿ
+Usquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¼»åë
+Usquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¼»åë
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(†ãÜøûÿÿÿÿ

@@ -1,0 +1,14 @@
+
+Usquid:UnusedPrivateMethod."+Remove this unused private "resize" method.(¨‚²Åúÿÿÿÿ
+usquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈäËİúÿÿÿÿ
+|squid:S41657"`Remove this useless assignment; "st" already holds the assigned value along all execution paths.(–ÔÅÕûÿÿÿÿ
+{squid:S41656"_Remove this useless assignment; "N" already holds the assigned value along all execution paths.(Œ´®½øÿÿÿÿ
+{squid:S41655"_Remove this useless assignment; "M" already holds the assigned value along all execution paths.(ü·úÿÿÿÿ
+?squid:S1905"(Remove this unnecessary cast to "Value".(‘çÜÔ
+dsquid:S00116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÃÏî
+isquid:S00116"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¸Ğéıÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸å‰Øûÿÿÿÿ
+fsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ªÿë¼úÿÿÿÿ
+fsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ªÿë¼úÿÿÿÿ
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+Zsquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ

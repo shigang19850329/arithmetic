@@ -1,0 +1,5 @@
+
+Ssquid:UnusedPrivateMethod")Remove this unused private "show" method.(×¾» üÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(øÉõÅúÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’
+isquid:S00117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ù‰¿

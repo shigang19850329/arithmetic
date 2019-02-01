@@ -1,0 +1,12 @@
+
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(Àí†­şÿÿÿÿ
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¸†¾î
+|squid:S1488 "`Immediately throw this expression instead of assigning it to the temporary variable "exception".(¼ß©üÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ûø­Òøÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“³‘Šúÿÿÿÿ
+[squid:S2259"?A "NullPointerException" could be thrown; "x" is nullable here.(²ºïïşÿÿÿÿ
+[squid:S2259"?A "NullPointerException" could be thrown; "x" is nullable here.(´ÒÏüÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ûø­Òøÿÿÿÿ
+?squid:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

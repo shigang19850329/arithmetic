@@ -1,0 +1,10 @@
+
+Ssquid:UnusedPrivateMethod(")Remove this unused private "show" method.(×¾» üÿÿÿÿ
+Nsquid:S1444
+"2Make this "public static compareTimes" field final(ôî£Øÿÿÿÿÿ
+Dsquid:S1444"-Make this "public static maxRate" field final(‚äøº
+‹"squid:ClassVariableVisibilityCheck
+"XMake compareTimes a static final constant or non-public and provide accessors if needed.(ôî£Øÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"SMake maxRate a static final constant or non-public and provide accessors if needed.(‚äøº
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÕ¾êûÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å½œ’
